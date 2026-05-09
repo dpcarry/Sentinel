@@ -1,0 +1,9 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.2
+pydantic==2.11.3
+python-multipart==0.0.20
+Pillow==11.2.1
+numpy>=2.0
+PyYAML>=6.0
+opencv-python>=4.10
+vosk==0.3.45

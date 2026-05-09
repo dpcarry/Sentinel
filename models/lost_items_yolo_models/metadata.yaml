@@ -1,0 +1,10 @@
+names:
+  0: phone
+  1: wallet
+  2: airpods
+image_size: 640
+source_datasets:
+- /content/data/lost_items_yolo/raw/airpods-7mme5
+- /content/data/lost_items_yolo/raw/cell-phone-psxhu
+- /content/data/lost_items_yolo/raw/wallet-mjzrc
+notes: Fine-tuned YOLO detector for Sentinal lost-item prototype.
